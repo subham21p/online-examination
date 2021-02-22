@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">OnlineExamination</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="name">Name</string>
+    <string name="dob">D.O.B.</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="Subham">Subham</string>
+    <string name="welcm">Welcome ...</string>
+    <string name="chooseSub">Choose Your Subject</string>
+    <string name="aptitude">Aptitude</string>
+    <string name="resoning">Resoning</string>
+    <string name="english">English</string>
+    <string name="exm">Exam : </string>
+    <string name="tmRemain">Time Remains ...</string>
+    <string name="submit">Submit</string>
+    <string name="ur_mask">Your Mask =</string>
+    <string name="or_login">Or LogIn</string>
+    <string name="username">Username</string>
+    <string name="c">C</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="js">JS</string>
+    <string name="certification">Certification Of Acknowledgement</string>
+    <string name="fo">for</string>
+    <string name="acknowledgment">This is to acknowledge that the candidate has successfully completed the scorce that\'s mention above.</string>
+    <string name="result">Result</string>
+    <string name="logout">Logout</string>
+    <string name="subject">Subject : </string>
+    <string name="nameDot">Name : </string>
+</resources>
+

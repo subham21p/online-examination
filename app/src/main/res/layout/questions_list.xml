@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textViewQusNo"
+            android:text="Q1) "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/textViewAQus1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Three years ago the average age of a family of members was 17 years. With the birth of a new baby the average remains the same even today. Find the age of baby." />
+
+    </LinearLayout>
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+
+            <RadioButton
+                android:id="@+id/optA11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="a) 1 years" />
+
+            <RadioButton
+                android:id="@+id/optA12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="b) 3 years" />
+
+            <RadioButton
+                android:id="@+id/optA13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="c) 2 and 1/2 years" />
+
+            <RadioButton
+                android:id="@+id/optA14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="d) 2 years" />
+
+
+        </RadioGroup>
+
+    <TextView
+        android:id="@+id/textViewCorrectAns"
+        android:layout_width="0dp"
+        android:layout_height="0dp" />
+
+
+    </LinearLayout>
